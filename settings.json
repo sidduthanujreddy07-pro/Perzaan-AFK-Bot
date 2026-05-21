@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thanujreddysiddu.aternos.me:61049",
+    "ip": "thanujreddysiddu.aternos.me",
     "port": 61049,
     "version": "1.21.1"
   },
